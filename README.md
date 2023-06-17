@@ -1,4 +1,4 @@
 # Income
 Expenditure Calculator.
 <br>
-Link- https://ads-bot.github.io/Income/
+<b>Link-</b> https://ads-bot.github.io/Income/
